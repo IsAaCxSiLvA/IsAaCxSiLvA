@@ -6,7 +6,7 @@
 
 
 <div  align="center" >
-  - 🔭 Atualmente estou trabalhando com cricacao  de sitemas de samp ...
+  🔭 "Atualmente estou trabalhando com a criação de sistemas de San Andreas Multiplayer (SAMP)"
   <br><br>
   
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
@@ -26,7 +26,7 @@
   
 </div>
 
-<h2 align="center" >⚡Stats⚡</h2>
+<h2 align="center" >⬅️Status atualmente➡️</h2>
 <br>
 <div align="center" >
   <picture>
