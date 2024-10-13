@@ -1,5 +1,7 @@
 
 <h1 align="center">
+  SEJA BEM VINDO ☺️
+<br>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Isaac!;" />
 </h1>
 
@@ -14,7 +16,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://instagram.com/sujeitoprogramador)
 
 
-<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<h2 align="center" > ⚙️ Linguagens-Ferramentas 🛠️</h2>
 <br>
 <div align="center" >
   
