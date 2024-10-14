@@ -11,9 +11,9 @@
   🔭 "Atualmente estou trabalhando com a criação de sistemas de San Andreas Multiplayer (SAMP)"
   <br><br>
   
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://instagram.com/sujeitoprogramador)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@isaac_script?si=D1TWGnZCcKxMzHub)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isaac_pwn/profilecard/?igsh=dDg1Z3FtN3RyZmp4)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.instagram.com/isaac_pwn/profilecard/?igsh=dDg1Z3FtN3RyZmp4)
 
 
 <h2 align="center" > ⚙️ Linguagens-Ferramentas 🛠️</h2>
@@ -50,8 +50,4 @@
 💻 Quanto mais eu aprendo, mais dá vontade de aprender a programar.
 
 ### Últimos videos:
-- [Como ZUSTAND deixa seu projeto profissional](https://youtu.be/nutJS8u4RtQ)<br/>
-- [Criando Aplicativo + IA profissional do zero](https://youtu.be/A2yPW3ZSv_A)<br/>
-- [Nunca foi tão fácil criar Dashboard com Next JS e Shadcn ui 🔥](https://youtu.be/PqRe0Q9b5QI)<br/>
-- [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/>
-
+- [Como criar mapa para sua gamemode](https://youtu.be/Sq8Ti-h7Nn8?si=SuQIYVtRdkDE2JG9)<br/>
